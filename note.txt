@@ -1,0 +1,10 @@
+#ติดตั้ง nginx-plus และ app-protect แบบเร็วๆ ด้วย vagrant
+1. vagrant up
+2. รอจนกว่า vm ทั้งหมดจะ provision เสร็จ
+3. vagrant ssh nginx-plus
+
+#note
+ทดสอบกับ vagrant_2.2.19_x86_64.msi และ VirtualBox-6.1.30-148432-Win.exe บน Windows 10
+
+#credit
+script ติดตั้งดัดแปลงมาจาก https://docs.nginx.com/nginx/admin-guide/installing-nginx/installing-nginx-plus/

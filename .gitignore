@@ -1,0 +1,9 @@
+.Trashes
+.fseventsd
+.Spotlight-V100
+._*
+.DS_Store
+.vagrant
+*.log
+nginx-repo.crt
+nginx-repo.key
